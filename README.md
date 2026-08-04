@@ -50,13 +50,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 The dataset is loaded from a public raw CSV URL in the notebook. If your execution environment blocks internet access, download the Cleveland heart disease CSV manually and update the `url` variable in the first notebook code cell to point to the local file path.
 
-## How to Run
 
-1. Open `Candidate_Name_MLTask.ipynb` in Jupyter Notebook, JupyterLab, VS Code, or Google Colab.
-2. Confirm the first code cell can load the dataset.
-3. Run all cells from top to bottom.
-4. Verify that the plots and printed outputs remain visible.
-5. Rename the notebook to `FirstName_LastName_MLTask.ipynb` before submitting through the recruitment portal.
 
 ## Notes for Reviewers
 
