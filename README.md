@@ -2,11 +2,6 @@
 
 This repository contains a Jupyter Notebook submission for the ML Domain recruitment task using the UCI Cleveland Heart Disease dataset. The analysis predicts serum cholesterol (`chol`) with a linear regression model after inspecting, cleaning, and engineering features from the dataset.
 
-## Files
-
-- `Candidate_Name_MLTask.ipynb` — the main notebook containing all code, visible outputs, visualisation cells, and written interpretations for the four required phases.
-
-> Before final portal submission, rename the notebook from `Candidate_Name_MLTask.ipynb` to the required `FirstName_LastName_MLTask.ipynb` format using the submitter's real name.
 
 ## Task Coverage
 
